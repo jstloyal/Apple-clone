@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    border: 1px solid red;
+}
+
+#billboard {
+    position: absolute;
+    margin-top: 0;
+    margin-left: 234px;
+    margin-right: 234px;
+    padding: 0;
+    /* margin-bottom: 292px; */
+    overflow: hidden;
+}
+
+.main-background {
+    width: 1440px;
+    height: 600px;
+    box-sizing: content-box;
+    z-index: auto;
+}
