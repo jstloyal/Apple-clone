@@ -1,12 +1,10 @@
 * {
   margin: 0;
   padding: 0%;
-
-  /* border: 1px solid blue; */
 }
 
 main {
-  width: 1440px;
+  width: 1400px;
   height: 830px;
   margin: auto;
 }
@@ -154,7 +152,6 @@ label:hover {
 
 .footer-list {
   display: flex;
-  flex: space-between;
   text-align: center;
 }
 
