@@ -47,11 +47,13 @@ a:hover {
 
 .nav-links li a {
     align-items: center;
-    /* border-right: 0.7px rgba(68, 68, 68, 0.822) solid; */
+    font-size: 17px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
 .nav-links li:first-child {
     margin-left: 20px;
+    font-size: 20px;
 }
 
 .nav-links li a {
@@ -70,10 +72,11 @@ label:hover {
 
 .search-bar input {
     width: 150px;
-    height: 30px;
+    height: 28px;
     background-color: rgb(149, 149, 149);
     border: 0;
     border-radius: 20px;
+    margin-left: 20px;
 }
 
 .main-body {
@@ -87,13 +90,13 @@ label:hover {
 
 .message {
     color: white;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-weight: 50;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 100;
     text-align: center;
 }
 
 .message h1 {
-    font-size: 5em;
+    font-size: 80px;
     margin-top: 40px;
     margin-bottom: 20px;
 }
