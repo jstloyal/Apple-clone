@@ -2,16 +2,18 @@
 
 > What the project is about
 
-Positioning and Floating Elements
-This project shows the New York times clone page and how the elements were positioned using Float, Grid, and Flexbox. 
+Building with Backgrounds and Gradients
+This project shows the Apple clone page it uses background photos well and the navbar at the top contains a gradient.
 
 > How the project was done
 
 The Lay out shows the basic structure of the page using empty semantic HTML elements that are appropriately sized and positioned. 
 
-Set up the top navigation bar that stick on top of the page while we scroll down the page
+Set up the top navigation bar with gradient.
 
-![screenshot]()
+Add background image to main navbar using css
+
+![screenshot](img/AppleHomePageClone.jpg)
 
 ## Built With
 
@@ -20,7 +22,7 @@ Set up the top navigation bar that stick on top of the page while we scroll down
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/jstloyal/Apple-clone/7de907f1f7639fffb8ed1bfdf9b490e2520f6c91/index.html)
 
 
 ## Getting Started
@@ -38,8 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-- Okiror Frank
-- Okikiola Apelehin
+- Adetayo Sunkanmi
 
 👤 **Author1**
 
@@ -49,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Feel free to check the [issues page](https://github.com/jstloyal/NYT-clone/issues).
+Feel free to check the [issues page](https://github.com/jstloyal/Apple-clone/issues).
 
 Contributions, issues and feature requests are welcome!
 
