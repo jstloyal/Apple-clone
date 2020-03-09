@@ -13,7 +13,7 @@ Set up the top navigation bar with gradient.
 
 Add background image to main navbar using css
 
-![screenshot](img/screenshot.jpg)
+![screenshot](img/Apple-clone.jpg)
 
 ## Built With
 
