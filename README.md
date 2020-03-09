@@ -22,7 +22,7 @@ Add background image to main navbar using css
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/jstloyal/Apple-clone/7de907f1f7639fffb8ed1bfdf9b490e2520f6c91/index.html)
+[Live Demo Link](https://rawcdn.githack.com/jstloyal/Apple-clone/e32e2f708d9699cf429ff5492c61c338e0b441f3/index.html)
 
 
 ## Getting Started

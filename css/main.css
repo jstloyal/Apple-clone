@@ -50,6 +50,12 @@ a:hover {
   font-size: 20px;
 }
 
+.bottom-aside a {
+  width: 25%;
+  height: 200px;
+  background-color: red;
+}
+
 .nav-links li a {
   color: white;
 }
@@ -123,12 +129,6 @@ label:hover {
   max-width: 1400px;
   margin: 2px auto;
   display: flex;
-}
-
-.bottom-aside a {
-  width: 25%;
-  height: 200px;
-  background-color: red;
 }
 
 .background-img1 {
