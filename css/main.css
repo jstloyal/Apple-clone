@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+main {
+  width: 1400px;
+  height: 830px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: skyblue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.nav-bar {
+  display: flex;
+  width: 70%;
+  height: 36px;
+  border-radius: 4px;
+  background: linear-gradient(rgb(131, 131, 131), rgb(131, 131, 131) 50%, rgb(99, 99, 99) 52%, rgb(126, 126, 126));
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.5);
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.nav-links li {
+  list-style-type: none;
+  align-items: center;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.nav-links li:first-child {
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.bottom-aside a {
+  width: 25%;
+  height: 200px;
+  background-color: red;
+}
+
+.nav-links li a {
+  color: white;
+}
+
+label {
+  position: relative;
+  left: -145px;
+  color: white;
+}
+
+label:hover {
+  cursor: pointer;
+}
+
+.search-bar input {
+  width: 150px;
+  height: 28px;
+  background-color: rgb(149, 149, 149);
+  border: 0;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+
+.main-body {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-image: url(../img/background.jpg);
+  background-position: bottom;
+  overflow: hidden;
+}
+
+.message {
+  color: white;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+.message h1 {
+  font-size: 80px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.message h2 {
+  font-size: 2em;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.message p {
+  font-size: 2rem;
+}
+
+.message-a {
+  color: white;
+  text-decoration: none;
+}
+
+.message-a:hover {
+  text-decoration: none;
+}
+
+.message-link {
+  color: white;
+}
+
+.bottom-aside {
+  width: 100%;
+  max-width: 1400px;
+  margin: 2px auto;
+  display: flex;
+}
+
+.background-img1 {
+  background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s_2x.jpg);
+  background-size: cover;
+}
+
+.background-img2 {
+  background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg);
+  background-size: cover;
+}
+
+.background-img3 {
+  background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg);
+  background-size: cover;
+}
+
+.background-img4 {
+  background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg);
+  background-size: cover;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 80%;
+  font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.first-footer p {
+  float: left;
+  width: 49%;
+  padding-top: 3px;
+}
+
+.first-footer ul {
+  float: right;
+  width: 51%;
+  display: flex;
+  align-items: center;
+  list-style: none outside;
+  justify-content: space-around;
+}
+
+.footer-list {
+  display: flex;
+  text-align: center;
+}
+
+.last-footer {
+  display: block;
+  width: 50%;
+  margin: 0;
+}
+
+.last-footer p {
+  position: relative;
+  top: 15px;
+  display: inline;
+  justify-content: space-evenly;
+  padding-right: 10px;
+}
